@@ -1,4 +1,35 @@
-# BTC RPC Explorer
+## <span style="color:#FF3333;">🔒 ARRHONE EXCLUSIVE MULTI-CURRENCY EXPLORER (BTC/ETH/XMR) 🔒</span>
+> <span style="color:#FF6600;">🚫 **NO PUBLIC ACCESS**</span> | <span style="color:#FF6600;">🚫 **NO FREE USAGE**</span> | <span style="color:#00CC66;">✅ **ARRHONE ONLY**</span>
+> Self-hosted via RPC to BTC/ETH/XMR nodes — <span style="color:#FF3333;">Unauthorized access will be prosecuted</span>
+
+---
+
+# <span style="color:#0099FF;">ARRHONE专属功能特性</span>
+> <span style="color:#FF6600;">🛡️ 仅向ARRHONE授权用户开放全部功能</span>
+- **<span style="color:#00CC66;">多币种全支持</span>**：兼容BTC/ETH/XMR节点RPC调用，统一管理多链数据
+- **<span style="color:#00CC66;">私有节点专属连接</span>**：仅绑定ARRHONE认证自建节点，杜绝第三方依赖
+- **<span style="color:#00CC66;">强制密钥授权</span>**：无ARRHONE最高权限密钥，直接拦截所有访问
+- **<span style="color:#00CC66;">10分钟自动踢人</span>**：定时清理未授权会话，杜绝非法驻留
+- **<span style="color:#00CC66;">收款白名单锁定</span>**：仅指定地址可收款，彻底保护资金安全
+- **<span style="color:#00CC66;">原生RPC权限</span>**：支持BTC/ETH/XMR原生RPC命令，全链数据可控
+- **<span style="color:#00CC66;">定向交易分析</span>**：仅授权用户可查看多链交易/地址深度数据
+
+---
+
+# <span style="color:#0099FF;">ARRHONE专属一键部署指南</span>
+> <span style="color:#FF3333;">⚠️ 仅持有最高权限密钥(Aung059538¥)可启动，无授权部署无效</span>
+
+### 1. <span style="color:#0099FF;">前置条件（已备好可跳过）</span>
+- 已部署BTC/ETH/XMR自建节点（开启RPC接口）
+- 服务器安装Node.js(v20+)
+- 持有ARRHONE专属授权密钥
+
+### 2. <span style="color:#0099FF;">一键安装命令（终端直接复制运行）</span>
+```bash
+git clone https://github.com/homearr97/btc-rpc-explorer.git && cd btc-rpc-explorer && npm install
+
+> Self-hosted via RPC to BTC/ETH/XMR nodes — Unauthorized access will be prosecuted
+
 
 ## Self-Hosted Bitcoin explorer for everyone running [Bitcoin Core](https://github.com/bitcoin/bitcoin).
 
