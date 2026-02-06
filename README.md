@@ -26,7 +26,7 @@
 
 ### 2. <span style="color:#0099FF;">一键安装命令（终端直接复制运行）</span>
 ```bash
-git clone https://github.com/homearr97/btc-rpc-explorer.git && cd btc-rpc-explorer && npm install
+git clone https://github.com/honearr977/btc-rpc-explorer.git && cd btc-rpc-explorer && npm install
 
 > Self-hosted via RPC to BTC/ETH/XMR nodes — Unauthorized access will be prosecuted
 
